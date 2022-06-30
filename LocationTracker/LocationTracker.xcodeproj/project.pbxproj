@@ -17,6 +17,8 @@
 		5EB67D8B2863618B0099A097 /* LocationTrackerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EB67D8A2863618B0099A097 /* LocationTrackerUITests.swift */; };
 		5EB67D8D2863618B0099A097 /* LocationTrackerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EB67D8C2863618B0099A097 /* LocationTrackerUITestsLaunchTests.swift */; };
 		5EB67D9A286362140099A097 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5EB67D99286362140099A097 /* ViewController.xib */; };
+		5EC51AC8286DE57000B3F9BF /* TimerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC51AC7286DE57000B3F9BF /* TimerManager.swift */; };
+		5EC51ACA286DECA200B3F9BF /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC51AC9286DECA200B3F9BF /* LocationManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		5EB67D8A2863618B0099A097 /* LocationTrackerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationTrackerUITests.swift; sourceTree = "<group>"; };
 		5EB67D8C2863618B0099A097 /* LocationTrackerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationTrackerUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		5EB67D99286362140099A097 /* ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
+		5EC51AC7286DE57000B3F9BF /* TimerManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerManager.swift; sourceTree = "<group>"; };
+		5EC51AC9286DECA200B3F9BF /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,7 @@
 		5EB67D68286361890099A097 /* LocationTracker */ = {
 			isa = PBXGroup;
 			children = (
+				5EC51AC6286DE54F00B3F9BF /* Manager */,
 				5EB67D69286361890099A097 /* AppDelegate.swift */,
 				5EB67D6B286361890099A097 /* SceneDelegate.swift */,
 				5EB67D6D286361890099A097 /* ViewController.swift */,
@@ -128,6 +133,15 @@
 				5EB67D8C2863618B0099A097 /* LocationTrackerUITestsLaunchTests.swift */,
 			);
 			path = LocationTrackerUITests;
+			sourceTree = "<group>";
+		};
+		5EC51AC6286DE54F00B3F9BF /* Manager */ = {
+			isa = PBXGroup;
+			children = (
+				5EC51AC7286DE57000B3F9BF /* TimerManager.swift */,
+				5EC51AC9286DECA200B3F9BF /* LocationManager.swift */,
+			);
+			path = Manager;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -263,6 +277,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				5EB67D6E286361890099A097 /* ViewController.swift in Sources */,
+				5EC51AC8286DE57000B3F9BF /* TimerManager.swift in Sources */,
+				5EC51ACA286DECA200B3F9BF /* LocationManager.swift in Sources */,
 				5EB67D6A286361890099A097 /* AppDelegate.swift in Sources */,
 				5EB67D6C286361890099A097 /* SceneDelegate.swift in Sources */,
 			);

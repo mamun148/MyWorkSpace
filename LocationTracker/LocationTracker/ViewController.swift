@@ -7,9 +7,10 @@
 
 import UIKit
 
-class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
+class ViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
 
     @IBOutlet weak var mTableView: UITableView!
+    
     let identifier = "cell"
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -31,7 +32,5 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         cell.textLabel?.text = "\(indexPath.row)"
         return cell
     }
-
-
 }
 
