@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "75BE528E-3465-41D6-8B30-69BB29ABA4B9"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6491B209-AD38-4C15-97AB-DB9AF76DEF5A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "eScaner/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "createPDF(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6491B209-AD38-4C15-97AB-DB9AF76DEF5A - 69936fb8b3d4edd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eScaner.ViewController.createPDF(__C.UIButton) -&gt; ()"
+                  moduleName = "eScaner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahmamun/Desktop/MyWorkSpace/iOS/Work/eScaner/eScaner/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "6491B209-AD38-4C15-97AB-DB9AF76DEF5A - 69936fb8b3d4edd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eScaner.ViewController.createPDF(__C.UIButton) -&gt; ()"
+                  moduleName = "eScaner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahmamun/Desktop/MyWorkSpace/iOS/Work/eScaner/eScaner/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3701E92A-2CD4-4770-B887-2F5D845AD334"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "eScaner/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "generatePDF()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3701E92A-2CD4-4770-B887-2F5D845AD334 - e208554c8de1a68d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eScaner.ViewController.generatePDF() -&gt; ()"
+                  moduleName = "eScaner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahmamun/Desktop/MyWorkSpace/iOS/Work/eScaner/eScaner/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "1939">
+               </Location>
+               <Location
+                  uuid = "3701E92A-2CD4-4770-B887-2F5D845AD334 - e208554c8de1a68d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eScaner.ViewController.generatePDF() -&gt; ()"
+                  moduleName = "eScaner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahmamun/Desktop/MyWorkSpace/iOS/Work/eScaner/eScaner/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "1763">
+               </Location>
+               <Location
+                  uuid = "3701E92A-2CD4-4770-B887-2F5D845AD334 - e208554c8de1a68d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eScaner.ViewController.generatePDF() -&gt; ()"
+                  moduleName = "eScaner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahmamun/Desktop/MyWorkSpace/iOS/Work/eScaner/eScaner/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "1770">
+               </Location>
+               <Location
+                  uuid = "3701E92A-2CD4-4770-B887-2F5D845AD334 - e208554c8de1a6ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eScaner.ViewController.generatePDF() -&gt; ()"
+                  moduleName = "eScaner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahmamun/Desktop/MyWorkSpace/iOS/Work/eScaner/eScaner/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1670">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "342ACA2E-2C9A-4C2B-8E10-ACBD6F326275"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/PDFReader/Sources/Classes/PDFDocument.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "init?(url:password:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2313647F-5DC1-4320-8F5B-F0C98E929CCF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "eScaner/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "loadPDF(urlStr:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2313647F-5DC1-4320-8F5B-F0C98E929CCF - 2b4de6c939c6776"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in eScaner.ViewController.loadPDF(urlStr: Swift.String) -&gt; ()"
+                  moduleName = "eScaner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahmamun/Desktop/MyWorkSpace/iOS/Work/eScaner/eScaner/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "1392">
+               </Location>
+               <Location
+                  uuid = "2313647F-5DC1-4320-8F5B-F0C98E929CCF - 2b4de6c939c6776"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in eScaner.ViewController.loadPDF(urlStr: Swift.String) -&gt; ()"
+                  moduleName = "eScaner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahmamun/Desktop/MyWorkSpace/iOS/Work/eScaner/eScaner/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "919">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6AD3EF77-9293-4D54-9EDC-5BF453EBC385"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "eScaner/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "loadPDF(urlStr:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6AD3EF77-9293-4D54-9EDC-5BF453EBC385 - 2b4de6c939c67f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in eScaner.ViewController.loadPDF(urlStr: Swift.String) -&gt; ()"
+                  moduleName = "eScaner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahmamun/Desktop/MyWorkSpace/iOS/Work/eScaner/eScaner/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "1018">
+               </Location>
+               <Location
+                  uuid = "6AD3EF77-9293-4D54-9EDC-5BF453EBC385 - bfe1340092719f0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable () -&gt; () in eScaner.ViewController.loadPDF(urlStr: Swift.String) -&gt; ()"
+                  moduleName = "eScaner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahmamun/Desktop/MyWorkSpace/iOS/Work/eScaner/eScaner/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "82">
+               </Location>
+               <Location
+                  uuid = "6AD3EF77-9293-4D54-9EDC-5BF453EBC385 - 2b4de6c939c6795"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in eScaner.ViewController.loadPDF(urlStr: Swift.String) -&gt; ()"
+                  moduleName = "eScaner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahmamun/Desktop/MyWorkSpace/iOS/Work/eScaner/eScaner/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "886">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76D75CAE-A1C9-45A4-A65B-6B7FF1526028"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "eScaner/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "readPDF(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "76D75CAE-A1C9-45A4-A65B-6B7FF1526028 - e61edb382e1678b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eScaner.ViewController.readPDF(Swift.Optional&lt;__C.UIButton&gt;) -&gt; ()"
+                  moduleName = "eScaner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahmamun/Desktop/MyWorkSpace/iOS/Work/eScaner/eScaner/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "662">
+               </Location>
+               <Location
+                  uuid = "76D75CAE-A1C9-45A4-A65B-6B7FF1526028 - e61edb382e167a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eScaner.ViewController.readPDF(Swift.Optional&lt;__C.UIButton&gt;) -&gt; ()"
+                  moduleName = "eScaner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahmamun/Desktop/MyWorkSpace/iOS/Work/eScaner/eScaner/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "714">
+               </Location>
+               <Location
+                  uuid = "76D75CAE-A1C9-45A4-A65B-6B7FF1526028 - e61edb382e167a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eScaner.ViewController.readPDF(Swift.Optional&lt;__C.UIButton&gt;) -&gt; ()"
+                  moduleName = "eScaner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahmamun/Desktop/MyWorkSpace/iOS/Work/eScaner/eScaner/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "1015">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59AF9991-2882-422A-B466-2CD5B1BE4E4A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "eScaner/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "readPDF(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

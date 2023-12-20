@@ -1,0 +1,6 @@
+module Pods_eScaner {
+  umbrella header "Pods-eScaner-umbrella.h"
+
+  export *
+  module * { export * }
+}

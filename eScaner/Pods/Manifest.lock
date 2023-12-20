@@ -1,0 +1,20 @@
+PODS:
+  - PDFGenerator (3.1.0)
+  - PDFReader (2.5.1)
+
+DEPENDENCIES:
+  - PDFGenerator (~> 3.1)
+  - PDFReader
+
+SPEC REPOS:
+  trunk:
+    - PDFGenerator
+    - PDFReader
+
+SPEC CHECKSUMS:
+  PDFGenerator: 17d6bc525db0a3fcd156fbf00f9d1b8d5cc75d1e
+  PDFReader: 2c4a845d0560f33221cf911516e3b700967680f6
+
+PODFILE CHECKSUM: 3e985ea30e2fea261ac88c8d32a4c9b71d139c72
+
+COCOAPODS: 1.14.3
